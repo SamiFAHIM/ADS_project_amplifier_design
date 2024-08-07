@@ -1,5 +1,5 @@
-# ADS_project_amplifier_design
-Project Summary: Design of a RF Power Amplifier using ADS
+# Design of a RF Power Amplifier using ADS
+Project Summary
 ## Introduction:
 This project, conducted by Sami Fahim and Jordan Chometton, focuses on the design and optimization of a Radio Frequency (RF) power amplifier using the Advanced Design System (ADS) software by Agilent Technologies. RF and microwave devices are crucial in modern telecommunications, and efficient design using CAD tools like ADS helps minimize manufacturing costs and lead times.
 
